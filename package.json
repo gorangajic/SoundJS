@@ -1,0 +1,24 @@
+{
+  "name": "soundjs",
+  "version": "1.0.0",
+  "description": "soundjs fork so it can work with npm",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorangajic/SoundJS.git"
+  },
+  "author": "-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gorangajic/SoundJS/issues"
+  },
+  "homepage": "https://github.com/gorangajic/SoundJS#readme"
+}
